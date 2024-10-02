@@ -6,7 +6,7 @@
     "configurations": [
         
         {
-            "type": "msedge",
+            "type": "chrome",
             "request": "launch",
             "name": "Open index.html",
             "file": "/Users/trevordonlin/Documents/GitHub/portfolio-template/dist/index.html"

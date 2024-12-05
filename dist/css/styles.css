@@ -6662,12 +6662,12 @@ textarea.form-control-lg {
 
 .text-bg-secondary {
   color: #fff !important;
-  background-color: RGBA(111, 143, 175, var(--bs-bg-opacity, 1)) !important;
+  background-color: RGBA(44, 62, 80, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-success {
   color: #fff !important;
-  background-color: RGBA(111, 143, 175, var(--bs-bg-opacity, 1)) !important;
+  background-color: RGBA(25, 135, 84, var(--bs-bg-opacity, 1)) !important;
 }
 
 .text-bg-info {
@@ -6696,7 +6696,7 @@ textarea.form-control-lg {
 }
 
 .link-primary {
-  color: #1abc9c !important;
+  color: #6F8FAF !important;
 }
 .link-primary:hover, .link-primary:focus {
   color: #15967d !important;

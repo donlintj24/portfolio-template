@@ -2862,7 +2862,7 @@ textarea.form-control-lg {
 }
 
 .btn-secondary {
-  --bs-btn-color: #fff;
+  --bs-btn-color: #1384da;
   --bs-btn-bg: #2c3e50;
   --bs-btn-border-color: #2c3e50;
   --bs-btn-hover-color: #fff;
